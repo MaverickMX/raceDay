@@ -1,4 +1,4 @@
-# Dog Years
+# Race Day
 
 This is a training project to practice JavaScript, Markdown, Git & Github for my online course.
 
